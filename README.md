@@ -1,6 +1,6 @@
 # aidams-lab3-gros
 
-Lab 3: **Bottom-Up Steel Emissions with Uncertainty** (AIDAMS).
+# Lab 3: **Bottom-Up Steel Emissions with Uncertainty** (AIDAMS).
 
 The notebook `lab3.ipynb` has two parts:
 
